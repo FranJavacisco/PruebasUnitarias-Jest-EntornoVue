@@ -1,7 +1,5 @@
 ### Pruebas Unitarias en Vue.js
 
-![Captura de pantalla](screenshot.png)
-
 Este proyecto se centra en la implementación de pruebas unitarias en una aplicación Vue.js utilizando Jest y Vue Test Utils. El objetivo principal es asegurar la calidad y funcionalidad del código mediante pruebas exhaustivas para componentes y rutas definidas en la aplicación.
 
 #### Descripción del Proyecto
@@ -60,7 +58,3 @@ En este desafío, aplicamos los conceptos y herramientas aprendidas para impleme
    ```
 
 5. Abre un **pull request** hacia el repositorio original. ¡Gracias por tu interés en mejorar las pruebas unitarias en Vue.js!
-
----
-
-Este README proporciona una visión general del proyecto, detalles sobre su estructura y cómo contribuir. Esperamos que este enfoque en pruebas unitarias en Vue.js te ayude a mejorar la calidad y robustez de las aplicaciones frontend.
