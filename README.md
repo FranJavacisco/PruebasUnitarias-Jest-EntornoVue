@@ -1,3 +1,6 @@
+
+![Captura de pantalla 2024-06-15 101821](https://github.com/FranJavacisco/PruebasUnitarias-Jest-EntornoVue/assets/134477809/e63fbcee-f114-44d0-80c1-ef5d65263bcf)
+
 ### Pruebas Unitarias en Vue.js
 
 Este proyecto se centra en la implementación de pruebas unitarias en una aplicación Vue.js utilizando Jest y Vue Test Utils. El objetivo principal es asegurar la calidad y funcionalidad del código mediante pruebas exhaustivas para componentes y rutas definidas en la aplicación.
