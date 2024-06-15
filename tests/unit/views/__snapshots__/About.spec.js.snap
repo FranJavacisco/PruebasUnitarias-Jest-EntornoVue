@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`About.vue matches the snapshot 1`] = `
+<div>
+  <h1>About Page</h1>
+  <p>Esta es la página About.</p>
+</div>
+`;
