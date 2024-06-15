@@ -1,5 +1,6 @@
 
-![Captura de pantalla 2024-06-15 101821](https://github.com/FranJavacisco/PruebasUnitarias-Jest-EntornoVue/assets/134477809/e63fbcee-f114-44d0-80c1-ef5d65263bcf)
+![Captura de pantalla 2024-06-15 112837](https://github.com/FranJavacisco/PruebasUnitarias-Jest-EntornoVue/assets/134477809/24f0bc9c-4918-421d-860c-76096ab41ca9)
+
 
 ### Pruebas Unitarias en Vue.js
 
